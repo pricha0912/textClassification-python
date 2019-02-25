@@ -1,6 +1,8 @@
 # textClassification-python
 Here, implementing Text classification using the concept of Natural Language Processing in python
 
+Dataset of positive and negative movie reviews: https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
+
 Used the basis concepts of NLP like tokenizing, part-of-speech tagging, stemming, chunking, and named entity recognition.
 Then using different classifiers to classify the text and compare the results:
 KNN,
