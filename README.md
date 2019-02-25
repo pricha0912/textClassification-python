@@ -3,17 +3,17 @@ Here, implementing Text classification using the concept of Natural Language Pro
 
 Used the basis concepts of NLP like tokenizing, part-of-speech tagging, stemming, chunking, and named entity recognition.
 Then using different classifiers to classify the text and compare the results:
-KNN
-Decision Tree Classifier
-Random Forest Classifier
-Logistic Regression
-SGD Classifier
-MultinomialNB
+KNN,
+Decision Tree Classifier,
+Random Forest Classifier,
+Logistic Regression,
+SGD Classifier,
+MultinomialNB, and 
 SVC
 
 Also used:
-Regular Expressions
-Feature Engineering
+Regular Expressions,
+Feature Engineering, and 
 Ensemble Methods
 
 Some common regular expression metacharacters - copied from wikipedia
